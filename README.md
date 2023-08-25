@@ -15,19 +15,19 @@ This is a solution to the [Insure landing page challenge on Frontend Mentor](htt
 
 ### Screenshot
 
-![Crowdfunding product Desktop](./src/assets/Crowdfunding-product-desktop.png)
+![Crowdfunding product Desktop](./src/assets/Crowdfunding-Product-desktop.png)
 
-![Crowdfunding product Desktop Selected](./src/assets/Crowdfunding-product-desktop-selected.png)
+![Crowdfunding product Desktop Selected](./src/assets/Crowdfunding-Product-desktop-selected.png)
 
-![Crowdfunding product Mobile](./src/assets/Crowdfunding-product-mobile.png)
+![Crowdfunding product Mobile](./src/assets/Crowdfunding-Product-mobile.png)
 
-![Crowdfunding product Mobile Selected](./src/assets/Crowdfunding-product-mobile-selected.png)
+![Crowdfunding product Mobile Selected](./src/assets/Crowdfunding-Product-mobile-selected.png)
 
 
 ### Links
 
-- Solution URL: [Github](https://github.com/handa26/insure)
-- Live Site URL: [Insure Landing Page](https://phenomenal-llama-bc1819.netlify.app/)
+- Solution URL: [Github](https://github.com/handa26/crowdfunding-product-page)
+- Live Site URL: [Insure Landing Page](https://dazzling-youtiao-f4dbb4.netlify.app/)
 
 ## My process
 

@@ -4,8 +4,8 @@ export default {
   theme: {
     extend: {
       backgroundImage: () => ({
-        "image-hero-desktop": "url('src/assets/image-hero-desktop.jpg')",
-        "image-hero-mobile": "url('src/assets/image-hero-mobile.jpg')",
+        "image-hero-desktop": "url('image-hero-desktop.jpg')",
+        "image-hero-mobile": "url('image-hero-mobile.jpg')",
       }),
     },
     colors: {
