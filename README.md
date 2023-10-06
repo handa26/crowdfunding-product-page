@@ -1,5 +1,4 @@
 # Crowdfunding product page <img src="https://img.shields.io/badge/Build%20with-Vite-61dbfb?style=popout&logo=vite">
-# Frontend Mentor - Crowdfunding product page solution
 
 ## Contents
 
