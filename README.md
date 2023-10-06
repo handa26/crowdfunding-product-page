@@ -1,45 +1,41 @@
+# Crowdfunding product page <img src="https://img.shields.io/badge/Build%20with-Vite-61dbfb?style=popout&logo=vite">
 # Frontend Mentor - Crowdfunding product page solution
 
-This is a solution to the [Insure landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/insure-landing-page-uTU68JV8).
+## Contents
 
-## Table of contents
+- [Description](#description)
+- [Installation](#installation-for-development)
+- [Screenshoots](#screenshoots)
+- [Demo Crowdfunding Page](#demo-car-hub)
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+## Description
 
-## Overview
+Discover **Crowdfunding Product Page** – a dynamic showcase of innovative products crafted without React.js and Tailwind CSS. Experience modern technology and engaging design in a streamlined crowdfunding platform.
 
-### Screenshot
+## Installation for Development
 
-![Crowdfunding product Desktop](./src/assets/Crowdfunding-Product-desktop.png)
+Use the package manager [npm](https://www.npmjs.com/get-npm) to install all required dependecies.
+```bash
+npm install
+```
+and then:
+```bash
+npm run dev
+```
 
-![Crowdfunding product Desktop Selected](./src/assets/Crowdfunding-Product-desktop-selected.png)
+## Screenshoots
 
-![Crowdfunding product Mobile](./src/assets/Crowdfunding-Product-mobile.png)
+<div align="center">
+    <img width="100%" src="./src/assets/Crowdfunding-Product-desktop.png">
+    <img width="100%" src="./src/assets/Crowdfunding-Product-desktop.png">
+    <img width="100%" src="./src/assets/Crowdfunding-Product-mobile.png">
+    <img width="100%" src="./src/assets/Crowdfunding-Product-mobile-selected.png">
+</div>
 
-![Crowdfunding product Mobile Selected](./src/assets/Crowdfunding-Product-mobile-selected.png)
+## Demo Crowdfunding Page
 
+Let's try it.
 
-### Links
-
-- Solution URL: [Github](https://github.com/handa26/crowdfunding-product-page)
-- Live Site URL: [Insure Landing Page](https://dazzling-youtiao-f4dbb4.netlify.app/)
-
-## My process
-
-### Built with
-
-- Vite React.JS
-- Tailwind CSS
-- [Vite](https://vitejs.dev/guide/) - Frontend Tooling
-- [Tailwind CSS](https://tailwindcss.com/) - For styles
-
-## Author
-
-- Website - [Ananda Muhammad](https://handa260.netlify.app/)
-<!-- - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername) -->
-- Twitter/X - [@_handa26](https://twitter.com/_handa26)
+<a href="https://dazzling-youtiao-f4dbb4.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Crowdfunding%20Page-Link%20Demo-blue.svg?style=popout&logo=googlechrome"/>
+</a>
